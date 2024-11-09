@@ -1,12 +1,14 @@
 class SoundBoardApp {
 	constructor() {
 		this.sprite = {
-			fucking_guy: [0, 1188],
-			what_have_you_done: [2000, 1762],
+			// fucking_guy: [0, 1188],
+			// what_have_you_done: [2000, 1762],
 			no_cookies: [4000, 3031],
 			bone_broth: [8000, 21500],
 			its_illegal: [31000, 2125],
 			gimmie_dat: [35500, 750],
+			no_table_questions: [36250, 2688],
+			'i_can\'t_know_tables': [38938, 2938],
 		};
 		this.sound = new Howl({
 			src: ["sound-board-sprite.mp3"],
