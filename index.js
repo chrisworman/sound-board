@@ -8,12 +8,18 @@ class SoundBoardApp {
 			its_illegal: [31000, 2125],
 			gimmie_dat: [35500, 750],
 			no_table_questions: [36250, 2688],
-			'i can\'t know tables': [38938, 2938],
-			'and I\'m fucking scared': [41876, 3281],
+			"I can't know tables": [38938, 2938],
+			"and I'm fucking scared": [41876, 3281],
 			confess: [45157, 4094],
 			it_could_be_anyone: [49251, 5016],
-			'I\'m telling you that I am': [54267, 2297],
-
+			"I'm telling you that I am": [54267, 2297],
+			celery_man: [56564, 2125],
+			tayne: [58689, 3594],
+			does_not_compute: [62283, 2125],
+			nsfw: [64408, 2938],
+			mhmm: [67346, 719],
+			"I'm okay": [68065, 4812],
+			important_work: [72877, 1469],
 		};
 		this.currentlyPlayingSpriteName = null;
 		document.getElementById('startButton').addEventListener('click', () => {
