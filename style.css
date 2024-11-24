@@ -8,7 +8,7 @@ body {
 
 body {
 	background-repeat: no-repeat;
-	background-image: url("tandy.jpeg");
+	background-image: url("dan-flashes.webp");
 	background-size: auto 100%;
 }
 
@@ -22,8 +22,6 @@ body {
 }
 
 .buttons button {
-	/* flex-basis: 33%; */
-
 	width: 160px;
 	height: 65px;
 	box-sizing: border-box;
